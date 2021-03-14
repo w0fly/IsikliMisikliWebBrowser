@@ -1,0 +1,8 @@
+c:\users\emre can temur\documents\visual studio 2015\Projects\IsikliMisikliWebBrowser\IsikliMisikliWebBrowser\bin\Debug\IsikliMisikliWebBrowser.exe
+c:\users\emre can temur\documents\visual studio 2015\Projects\IsikliMisikliWebBrowser\IsikliMisikliWebBrowser\bin\Debug\IsikliMisikliWebBrowser.pdb
+c:\users\emre can temur\documents\visual studio 2015\Projects\IsikliMisikliWebBrowser\IsikliMisikliWebBrowser\obj\Debug\IsikliMisikliWebBrowser.csprojResolveAssemblyReference.cache
+c:\users\emre can temur\documents\visual studio 2015\Projects\IsikliMisikliWebBrowser\IsikliMisikliWebBrowser\obj\Debug\IsikliMisikliWebBrowser.Form1.resources
+c:\users\emre can temur\documents\visual studio 2015\Projects\IsikliMisikliWebBrowser\IsikliMisikliWebBrowser\obj\Debug\IsikliMisikliWebBrowser.Properties.Resources.resources
+c:\users\emre can temur\documents\visual studio 2015\Projects\IsikliMisikliWebBrowser\IsikliMisikliWebBrowser\obj\Debug\IsikliMisikliWebBrowser.csproj.GenerateResource.Cache
+c:\users\emre can temur\documents\visual studio 2015\Projects\IsikliMisikliWebBrowser\IsikliMisikliWebBrowser\obj\Debug\IsikliMisikliWebBrowser.exe
+c:\users\emre can temur\documents\visual studio 2015\Projects\IsikliMisikliWebBrowser\IsikliMisikliWebBrowser\obj\Debug\IsikliMisikliWebBrowser.pdb
